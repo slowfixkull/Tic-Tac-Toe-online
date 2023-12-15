@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+
+# Editor directories and files
+.vscode/
+.idea/
+
+# Compiled files
+public/script.js
+public/style.css
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
